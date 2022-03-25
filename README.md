@@ -1,6 +1,6 @@
 # Game Of Life
 
-> Game of Life implementation counting neighbors using matrices rotations
+_**Game of Life implementation counting neighbors using matrices rotations**_
 
 **Demo:** [here](https://simoneguarneri.github.io/GameOfLife-matrices/index.html)
 
